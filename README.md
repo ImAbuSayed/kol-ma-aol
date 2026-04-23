@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> كل ما أقول إنك لي
+> روحي تذوب في عينيك
+> ليلي يطول وأنت بعيد
+> قلبي ينادي بس عليك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
