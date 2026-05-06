@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 23, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kol-ma-aol/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Commercial Licensing for Kol Ma Aol](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
