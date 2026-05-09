@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kol Ma Aol
+
+This log tracks the cryptographic history and versioning for the song **Kol Ma Aol** (kol-ma-aol).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:38:49.637158 | `v1` | `848e53b59a55042920a4f11a3ecfdedfe4e694e30f4ba0b44b0ef3ba2f8c6aec` | `b36088e58b0311302e79a76ff19d950c6791f468d45358c5280ad5e024d04c16` | `2026-05-09_kol-ma-aol-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
